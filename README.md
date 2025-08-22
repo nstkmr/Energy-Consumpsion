@@ -5,7 +5,7 @@ This project applies machine learning techniques to analyze and predict energy c
 ---
 
 ## 📌 Project Overview
-The notebook `Ex_03_Energy consumpsion.ipynb` covers:
+The notebook `Energy consumpsion.ipynb` covers:
 - Loading and exploring an energy consumption dataset  
 - Data preprocessing and feature selection  
 - Visualizing trends and correlations  
